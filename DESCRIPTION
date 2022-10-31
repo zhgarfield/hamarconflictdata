@@ -1,0 +1,19 @@
+Package: hamarconflictresolutiondata
+Title: Data on inter-individual conflicts in an agro-pastoralists society
+Version: 0.0.0.9000
+Authors@R: 
+    person("Zachary", "Garfield", , "zachary.garfield@iast.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1547-1492"))
+    person("Luke", "Glowacki", , "lukeglowacki@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8314-5904"))
+Description: A database of 160 self-reports of inter-individual conflicts among a 
+     Hamar agro-pastoralists society, reported by 99 adults. Data include measures of
+     cause of conflict, if a third-party mediator was involved, if the conflict was
+     resolved, and other conflict-level meta-data. 
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
