@@ -1,4 +1,4 @@
-instanceID_conflict2022,conflict_report_ID,cause_code,cause_type,ago,severe,solution,3P,3P_gender,friends,type,person1_gender,person1clan_major,person1clan_minor,person2_gender,person2clan_major,person2clan_minor,relation,sex,age_estimated_min,age_estimated_max,age_boot
+instanceID_conflict2022,conflict_report_ID,cause_code,cause_type,ago,severe,solution,third_party,third_party_gender,friends,type,person1_gender,person1clan_major,person1clan_minor,person2_gender,person2clan_major,person2clan_minor,relation,sex,age_estimated_min,age_estimated_max,age_boot
 uuid:6fce35d3-237a-4617-8612-3997e8040c18,03e08039e0e758b3a2abf51881cdd87a,Drunkenness,Social,NA,NA,yes,yes,female,NA,resolved,female,A,s,female,A,s,kin_affine,female,25,30,27.5
 uuid:9754d15e-ccdc-47dd-9dfc-f000da85d72f,059766b42013c03e290f347a960baca5,Livestock grazing in plot,Subsistence resource,week,worse,yes,no,NA,yes,others,male,A,b,male,B,p,NA,male,65,70,67.5
 uuid:0de18a66-d3d9-47d9-a15b-aa2023950c65,07d5640d16bc76c2786eb462d69fccb2,Theft,Material resource,months_1_3,typical,yes,yes,female,yes,self,female,NA,NA,female,B,a,kin_affine,female,25,30,27.5
