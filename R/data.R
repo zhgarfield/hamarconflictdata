@@ -12,10 +12,10 @@
 #'   \item{\code{ago}}{character Report on how long ago the conflict occured.}
 #'   \item{\code{severe}}{character Report on conflict severity compared to most conflicts in the community, coded as "Severe" or "Typical."}
 #'   \item{\code{solution}}{character Report on if conflict was resolved, coded as "yes" or "no."}
-#'   \item{\code{3P}}{character Report on if a third-party mediator was involved, coded as "yes" or "no."}
-#'   \item{\code{3P_gender}}{character Gender of third-party mediator, coded as "female" or "male."}
+#'   \item{\code{third_party}}{character Report on if a third-party mediator was involved, coded as "yes" or "no."}
+#'   \item{\code{third_party_gender}}{character Gender of third-party mediator, coded as "female" or "male."}
 #'   \item{\code{friends}}{character Report on post=-conflict relationship status between disputants, i.e., "are they friends today?", coded as "yes" or "no."}
-#'   \item{\code{type}}{character Type of conflict reported, coded as "self" for first-person reports, "others" for second-hand reports, and "resolved" for conflicts in which the informant acted as third-party mediator.}
+#'   \item{\code{type}}{character Type of conflict reported, coded as "first_person" for first-person reports, "second-hand" for second-hand reports, and "third-party" for conflicts in which the informant acted as third-party mediator.}
 #'   \item{\code{person1_gender}}{character Gender of "person 1", one individual involved in conflict, coded as "female" or "male."}
 #'   \item{\code{person1clan_major}}{character Moity (higher level clan groupings) of "person 1", coded as "A", "B", or "C."}
 #'   \item{\code{person1clan_minor}}{character Clan of "person 1," coded by letters.}
