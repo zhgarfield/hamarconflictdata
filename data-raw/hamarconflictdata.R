@@ -29,6 +29,16 @@ hamarconflictdata <- hamarconflictdata %>%
   mutate(clan_minor_conflict = case_when(person1clan_minor == person2clan_minor ~ "intra-clan (minor)",
                                          person1clan_minor != person2clan_minor ~ "inter-clan (minor)"))
 
+# Correct NA as character
+hamarconflictdata$third_party[hamarconflictdata$third_party=="NA"] = NA
+hamarconflictdata$third_party_gender[hamarconflictdata$third_party_gender=="NA"] = NA
+
+# Rename type variable value labels
+hamarconflictdata$type[hamarconflictdata$type == "self"] <- "first_person"
+hamarconflictdata$type[hamarconflictdata$type == "others"] <- "second_hand"
+hamarconflictdata$type[hamarconflictdata$type == "resolved"] <- "third_party"
+
+
 
 
 usethis::use_data(hamarconflictdata, overwrite = TRUE)
