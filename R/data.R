@@ -10,7 +10,7 @@
 #'   \item{\code{cause_code}}{character Cause of conflict, coded as one of 22 unique causes reported.}
 #'   \item{\code{cause_type}}{character Conflict type, coded as "Subsistence resource", "Material resource", or Social."}
 #'   \item{\code{ago}}{character Report on how long ago the conflict occured.}
-#'   \item{\code{severe}}{character Report on conflict severity compared to most conflicts in the community, coded as "Severe" or "Typical."}
+#'   \item{\code{severe}}{character Report on conflict severity compared to most conflicts in the community, coded as "Severe," "Moderate," or "Minor"}
 #'   \item{\code{solution}}{character Report on if conflict was resolved, coded as "yes" or "no."}
 #'   \item{\code{third_party}}{character Report on if a third-party mediator was involved, coded as "yes" or "no."}
 #'   \item{\code{third_party_gender}}{character Gender of third-party mediator, coded as "female" or "male."}

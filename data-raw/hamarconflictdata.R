@@ -41,7 +41,7 @@ hamarconflictdata$type[hamarconflictdata$type == "resolved"] <- "third_party"
 # Recode severity variable
 
 hamarconflictdata$severe[hamarconflictdata$severe ==  "worse"] <- "severe"
-hamarconflictdata$severe[hamarconflictdata$severe ==  "same"] <- "typical"
+hamarconflictdata$severe[hamarconflictdata$severe ==  "same"] <- "moderate"
 hamarconflictdata$severe[hamarconflictdata$severe ==  "less"] <- "minor"
 
 
