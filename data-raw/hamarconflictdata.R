@@ -38,6 +38,12 @@ hamarconflictdata$type[hamarconflictdata$type == "self"] <- "first_person"
 hamarconflictdata$type[hamarconflictdata$type == "others"] <- "second_hand"
 hamarconflictdata$type[hamarconflictdata$type == "resolved"] <- "third_party"
 
+# Recode severity variable
+
+hamarconflictdata$severe[hamarconflictdata$severe ==  "worse"] <- "severe"
+hamarconflictdata$severe[hamarconflictdata$severe ==  "same"] <- "typical"
+hamarconflictdata$severe[hamarconflictdata$severe ==  "less"] <- "minor"
+
 
 
 
