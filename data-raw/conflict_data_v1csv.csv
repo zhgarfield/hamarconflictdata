@@ -22,7 +22,7 @@ uuid:12978c00-3df1-4707-b726-4cb176fdb5bf,da1c5f2a4b7799eadd2d6f5c2d504778,Lives
 uuid:1eede018-0f40-47cb-8000-10aa26a2570e,cc38cb489064237d58e03fc49eac4ab2,Property transfer,Material resource,months_1_3,worse,yes,yes,male,yes,others,female,A,s,female,A,s,NA,male,30,35,32.5
 uuid:254a9cb6-2f49-4dda-9d69-d9d62b82f038,5b4f2805dd7fb1e8466671ed35fcf5de,Livestock ownership/management/use,Subsistence resource,months_3_6,worse,yes,no,NA,yes,others,female,A,q,female,A,q,kin_affine,female,25,30,27.5
 uuid:254a9cb6-2f49-4dda-9d69-d9d62b82f038,d54986e7615d13ce23283829f174a133,Property damage,Material resource,week_month,worse,yes,no,NA,yes,self,female,B,c,female,B,a,kin_affine,female,25,30,27.5
-uuid:2addd2e3-3152-4807-b14f-e46c004cfa2a,c46010fcaae55a9720650c1cfdaea55b,Livestock grazing in plot,Subsistence resource,week,worse,no,NA,NA,no,others,male,B,p,female,A,s,other,female,48,52,50
+uuid:2addd2e3-3152-4807-b14f-e46c004cfa2a,c46010fcaae55a9720650c1cfdaea55b,Livestock grazing in plot,Subsistence resource,week,worse,no,no,NA,no,others,male,B,p,female,A,s,other,female,48,52,50
 uuid:2addd2e3-3152-4807-b14f-e46c004cfa2a,e7ce5a73d0b05d2009b500c13a7c8ce4,Property damage,Material resource,many_years,worse,no,yes,male,no,self,female,B,p,female,NA,NA,other,female,48,52,50
 uuid:2f20c99d-8db6-4c5d-af3c-24ad9c44a48c,cb51527e661bad1e00b451ffedad83db,Livestock grazing in plot,Subsistence resource,months_6,less,yes,no,NA,yes,others,male,B,r,male,A,q,kin_bio,female,30,35,32.5
 uuid:2f20c99d-8db6-4c5d-af3c-24ad9c44a48c,d1833d8e5031f416e33b27b4ade8aee3,Theft,Material resource,months_6,less,yes,no,NA,yes,self,female,B,p,female,A,o,kin_affine,female,30,35,32.5
@@ -110,7 +110,7 @@ uuid:b39431e5-4e73-4e6c-85ad-015b540fed18,ee5a212acb3361a65198c33ba2f3e82c,Lives
 uuid:b8fc454b-86b9-472b-b4e4-1fdc879d2aaf,bf059b67b471e3f0669f3e1568c08d45,Livestock grazing in plot,Subsistence resource,year_plus,less,yes,no,NA,yes,self,male,B,n,female,B,n,other,male,45,50,47.5
 uuid:b92e3e4e-00a3-4f02-abae-03f4b4be2f42,b8727b2df1dcb0fb9fcb4395bdcbd230,Property damage,Material resource,week,less,no,no,NA,no,self,female,A,o,female,NA,NA,kin_bio,female,30.75949367,35.26582278,33.00949367
 uuid:b92e3e4e-00a3-4f02-abae-03f4b4be2f42,fade64adda16ac8313b188c4abeed5f6,Livestock grazing in plot,Subsistence resource,week_month,less,no,yes,male,no,others,male,B,p,male,B,n,kin_affine,female,30.75949367,35.26582278,33.00949367
-uuid:bb62fd61-3a01-455c-a27d-3e827f9c18d8,74f21b31721c50b23727e12c9fe1df0b,Land use dispute,Subsistence resource,many_years,less,yes,NA,NA,yes,others,male,NA,NA,male,B,r,kin_affine,male,55,60,57.5
+uuid:bb62fd61-3a01-455c-a27d-3e827f9c18d8,74f21b31721c50b23727e12c9fe1df0b,Land use dispute,Subsistence resource,many_years,less,yes,no,NA,yes,others,male,NA,NA,male,B,r,kin_affine,male,55,60,57.5
 uuid:c427b9f5-f0e3-4060-ba57-e400bf78d95d,52087b0ef61211607d1ebf428b8f2916,Livestock grazing in plot,Subsistence resource,months_6,less,yes,no,NA,yes,others,male,NA,NA,female,B,n,other,female,18,20,19
 uuid:c5f9a9ce-182e-4929-b057-fcd127c0cc5f,32717a2b7cc80d61e53f2a377c458ec3,Livestock grazing in plot,Subsistence resource,months_3_6,less,yes,no,NA,yes,self,male,B,r,female,A,o,other,male,16,18,17
 uuid:c5f9a9ce-182e-4929-b057-fcd127c0cc5f,6769c2c874af108a0677034ad95051fd,Livestock grazing in plot,Subsistence resource,months_1_3,worse,no,no,NA,yes,others,male,B,j,female,B,p,other,male,16,18,17
